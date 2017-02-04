@@ -3,7 +3,7 @@ class RestclientCpp < Formula
   homepage "http://code.mrtazz.com/restclient-cpp/"
   url "https://github.com/KrugerHeavyIndustries/restclient-cpp/archive/0.4.5.tar.gz"
   version "0.4.5"
-  sha256 "395408a3dc9c3db2b5c200b8722a13a60898c861633b99e6e250186adffd1370"
+  sha256 "89fc7c7e0d994ca45df3033efa57866e352928f77f49711832baa2169593a925"
 
   depends_on "autoconf" => :build
   depends_on "automake" => :build
