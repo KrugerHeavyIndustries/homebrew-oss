@@ -3,7 +3,7 @@ class Blazer < Formula
   homepage "https://github.com/KrugerHeavyIndustries/blazer"
   url "https://github.com/KrugerHeavyIndustries/blazer/archive/0.3.6.tar.gz"
   version "0.3.6"
-  sha256 "3529ece648d5381ad8d38ca9bfaf8da6a410887ef01733342f97d31deb77e65e"
+  sha256 "8e74b978515c909d3a73aa4e989a148780fb51012198de3fa1de6804d62d33cd"
 
   depends_on "autoconf" => :build
   depends_on "automake" => :build
