@@ -1,9 +1,9 @@
 class Blazer < Formula
   desc "Backblaze B2 command line client"
   homepage "https://github.com/KrugerHeavyIndustries/blazer"
-  url "https://github.com/KrugerHeavyIndustries/blazer/archive/0.2.7.tar.gz"
-  version "0.2.7"
-  sha256 "bafde5f9ba0ecf0282026a8309e28d3185686379290044b42649aadb54f57827"
+  url "https://github.com/KrugerHeavyIndustries/blazer/archive/0.3.6.tar.gz"
+  version "0.3.6"
+  sha256 "3529ece648d5381ad8d38ca9bfaf8da6a410887ef01733342f97d31deb77e65e"
 
   depends_on "autoconf" => :build
   depends_on "automake" => :build
