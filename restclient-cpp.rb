@@ -1,9 +1,9 @@
 class RestclientCpp < Formula
   desc "C++ client for making HTTP/REST requests"
   homepage "http://code.mrtazz.com/restclient-cpp/"
-  url "https://github.com/KrugerHeavyIndustries/restclient-cpp/archive/0.5.2.tar.gz"
+  url "https://github.com/mrtazz/restclient-cpp/archive/0.5.2.tar.gz"
   version "0.5.2"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "d62ba618f9a938652fd53b483289e8662a99451839e59058c8beb286dfbc65ec"
 
   depends_on "autoconf" => :build
   depends_on "automake" => :build
